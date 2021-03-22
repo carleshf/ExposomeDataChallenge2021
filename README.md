@@ -6,13 +6,20 @@ __Timeline__ (from the oficial webpage):
 
   * February 18: Exposome dataset available [here](https://github.com/isglobal-exposomeHub/ExposomeDataChallenge2021/blob/main/README.md).
   * March 4: _We submitted this proposal_.
-  * March 8: Proposal submission deadline.
-  * March 15: Proposal selection results.
-  * March-April:Time for the selected participants to apply their method on the Exposome dataset provided.
+  * March 8: Proposal submission deadline `-->` updated to March 12.
+  * March 15: Proposal selection results `-->` updated to March 22.
+  * March-April: Time for the selected participants to apply their method on the Exposome dataset provided.
   * April 28: Selected participants apply their methods on the Exposome dataset provided, submit the results and codes on the event Github page.
   * April 28-30: Showcase of the results and discussion. Selected participants present their methods and results on the Exposome dataset provided. The results and codes will be submitted on the event Github page.
 
 ---
+
+__Status__ (from received email):
+
+This abstract has been selected for the _Topic 2 - Muti-omic data integration_ chaired by __Juan Ramón González__ on Wednesday, April 28th, 4:45 - 6:00 PM (CET time).
+
+---
+
 
 # Dimensionality reduction in exposome and omic data to uncover molecular pathologic mechanisms 
 
