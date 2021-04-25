@@ -26,7 +26,7 @@ __Status__ :
 
 1. This abstract has been selected for the _Topic 2 - Muti-omic data integration_ chaired by __Juan Ramón González__ on Wednesday, April 28th, 4:45 - 6:00 PM (CET time).
 
-2. After performing the initial analyses and overved that results were not conlusice, we decided to retract our proposal form the event.
+2. After performing the initial analyses and observed that results were not conclusive or relevant, we decided to retract our proposal form the event on Monday, April 26th.
 
 ---
 
