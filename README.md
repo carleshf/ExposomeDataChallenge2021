@@ -32,5 +32,6 @@ __Status__ :
 
 __Analyses__:
 
+0. Abstract with the plan [here](https://github.com/carleshf/ExposomeDataChallenge2021/tree/main/abstract).
 1. Dimensionallity reduction of exposure data using PCA [here](https://github.com/carleshf/ExposomeDataChallenge2021/blob/main/analyses/exposure_pca.md).
 2. Dimensionallity reduction of metabolome data using PCA and its association analysis with reduced exposome [here](https://github.com/carleshf/ExposomeDataChallenge2021/blob/main/analyses/metabolome_pca_path_assoc.md)
