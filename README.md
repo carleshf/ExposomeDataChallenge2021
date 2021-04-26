@@ -26,7 +26,7 @@ __Status__ :
 
   1. This abstract has been selected for the _Topic 2 - Muti-omic data integration_ chaired by __Juan Ramón González__ on Wednesday, April 28th, 4:45 - 6:00 PM (CET time).
 
-  2. After performing the initial analyses and observed that results were not conclusive or relevant, we decided to retract our proposal form the event on Monday, April 26th.
+  2. After performing the initial analyses and observed that results were not conclusive or relevant, we decided to renounce to the event on Monday, April 26th.
 
 ---
 
@@ -35,3 +35,4 @@ __Analyses__:
   0. Abstract with the plan [here](https://github.com/carleshf/ExposomeDataChallenge2021/tree/main/abstract).
   1. Dimensionallity reduction of exposure data using PCA [here](https://github.com/carleshf/ExposomeDataChallenge2021/blob/main/analyses/exposure_pca.md).
   2. Dimensionallity reduction of metabolome data using PCA and its association analysis with reduced exposome [here](https://github.com/carleshf/ExposomeDataChallenge2021/blob/main/analyses/metabolome_pca_path_assoc.md)
+  3. Dimensionallity reduction of expression data using Hipathia and its association analysis with reduced exposome [here](https://github.com/carleshf/ExposomeDataChallenge2021/blob/main/analyses/pathways_association.md)
